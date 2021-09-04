@@ -84,10 +84,10 @@
 <div>
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/9fcc9762313e134b8710a8c2fb53ff5c/tumblr_nzzkd5Lfyi1v2y42bo1_500.gifv?raw=true" width="400" />
  
- Software engineer at Alchemy 
- Open-source enthusiast love to code as much as coffee :coffee: 
-🔭 I’m currently working on Phraseanet :rocket:
-  🌱 I’m currently learning Rust :crab:
+ Software engineer at Alchemy \
+ Open-source enthusiast love to code as much as coffee :coffee: \
+🔭 I’m currently working on Phraseanet :rocket: \
+  🌱 I’m currently learning Rust :crab: \
  📫 Reach me on [Twitter:bird:](https://twitter.com/sam0hack) 
 </div>
 <br/>
