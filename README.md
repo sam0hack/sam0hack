@@ -94,8 +94,10 @@
 <br/>
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/a0061adf-ebad-4b16-9180-dd6b0aee9066.svg)](https://wakatime.com/@a0061adf-ebad-4b16-9180-dd6b0aee9066)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sam0hack" />
+
 <img align="right" src="https://img.shields.io/github/followers/sam0hack?label=Follow&style=social" />
 <h1 align="center"></h1> <br/>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=sam0hack&show_icons=true&theme=merko&count_private=true">
