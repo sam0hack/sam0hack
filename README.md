@@ -68,7 +68,7 @@
  
  Software engineer at [ZipperTic](https://zippertic.se/) \
  Open-source enthusiast love to code as much as coffee :coffee: \
-🔭 Currently depeloping new features :rocket: \
+🔭 Currently developing new features :rocket: \
  ❤️ Love Rust :crab: \
  📫 Reach me on [X 🐦 ](https://twitter.com/sam0hack) 
 </div>
@@ -77,10 +77,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/a0061adf-ebad-4b16-9180-dd6b0aee9066.svg)](https://wakatime.com/@a0061adf-ebad-4b16-9180-dd6b0aee9066)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sam0hack" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sam0hack" />
 
 
-<img align="left" src="https://img.shields.io/github/followers/sam0hack?label=Follow&style=social" />
+<img align="left" src="https://img.shields.io/github/followers/sam0hack?label=Follow&style=social" /> -->
 
 
 
